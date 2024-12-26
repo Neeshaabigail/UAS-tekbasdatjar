@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "676cae055b17f9c6314eeb88"
+  },
+  "harga jual pabrik": "40.000",
+  "harga grosir": "30.000",
+  "harga eceran": "25.000"
+}]

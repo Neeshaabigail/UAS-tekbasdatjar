@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "676cad995b17f9c6314eeb87"
+  },
+  "jenis jilbab": "khimar",
+  "bahan": "katun",
+  "warna": "pink",
+  "ukuran": "m"
+}]
